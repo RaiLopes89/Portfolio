@@ -1,0 +1,30 @@
+.title{
+    color: blue;
+    text-align: center;
+    vertical-align: text-top;
+}
+.imgDescription{
+    font-family: cursive;
+    font-size: 11px;
+}
+.important{
+    background-color: #041E42;
+    color: white;
+    padding: 20px;
+}
+.presentation{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border:5px solid #041E42;
+    background-color: #D6001C;
+}
+
+.contact{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.text, ul{
+    font-family: monospace;
+    font-size: 20px;
+}
